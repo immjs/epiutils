@@ -7,8 +7,8 @@ import { ReactNode, useState } from "react";
 export function ApplyContexts({ children, ogTheme, oidcState, csrf }: ApplyContextsProps) {
   const [theme, setTheme] = useState<"light" | "dark">(ogTheme);
   return (
-    <tokenContext.Provider value={oidcState}>
-      <oidcStateContext.Provider value={csrf}>
+    <tokenContext.Provider value={csrf}>
+      <oidcStateContext.Provider value={oidcState}>
         <themeContext.Provider value={[theme, setTheme]}>
           {children}
         </themeContext.Provider>

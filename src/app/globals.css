@@ -20,4 +20,7 @@ body, html {
   --blue: #89b4fa;
   --surface-i: #eff1f5;
   --surface-ii: #ccd0da;
+
+  --half-fg: #4c4f6980;
+  --half-orange: #fab38780;
 }

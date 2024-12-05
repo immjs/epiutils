@@ -20,6 +20,9 @@ export default {
         "blue": "var(--blue)",
         "surface-i": "var(--surface-i)",
         "surface-ii": "var(--surface-ii)",
+
+        "half-orange": "var(--half-orange)",
+        "half-fg": "var(--half-fg)",
       },
       fontFamily: {
         para: ['var(--font-hanken-grotesk)'],
