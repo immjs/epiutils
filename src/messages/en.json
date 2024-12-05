@@ -1,0 +1,52 @@
+{
+  "common": {
+    "logout": "Log out",
+    "settings": "Settings",
+    "bug_report": "Report a bug",
+    "credits_by": "Avec <3 par Juliet WANG",
+    "credits_for": "Pour les délégués de la classe 2029",
+    "epiutils": "EPIUTILS",
+    "subject": "Subject",
+    "due_on": "Due on",
+    "priority": "Priority",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "contents": "Contenu"
+  },
+  "main": {
+    "homeworks": "Homework",
+    "mcqs": "MCQs"
+  },
+  "entry_page": {
+    "login": "Log in with Forge ID"
+  },
+  "homeworks": {
+    "sort_by": "Sort by",
+    "due_date": "Due date",
+    "priority": "Priority",
+    "due": "Due {relDate, plural, =0 {Today} =1 {Tomorrow} other {in # days}}",
+    "no_upcoming_hw": "No upcoming homework. (Drink up!)",
+    "add_hw": "ADD HOMEWORK"
+  },
+  "add_hw": {
+    "add_hw": "ADD HW",
+    "add_hw_btn": "ADD HOMEWORK"
+  },
+  "edit_hw": {
+    "edit_hw": "EDIT HW",
+    "notify_all": "Notify all users of this change",
+    "edit_hw_btn": "EDIT HOMEWORK"
+  },
+  "delete_hw": {
+    "delete_hw": "DELETE HW",
+    "will_be_deleted_for_all": "This homework will be deleted for all users in your class using EPIUTILS.",
+    "make_sure_hw_no_longer_req": "Make sure you have received confirmation from the relevant teacher that this homework is no longer required.",
+    "delete_hw_btn": "DELETE HOMEWORK"
+  },
+  "mcqs": {
+    "upcoming_on": "Upcoming MCQ on {mcqDate, date, medium}",
+    "no_study_instructions": "No study instructions. Add them using the edit button!",
+    "will_start_will_end": "The upcoming MCQ will start at {mcqStart, time, short} and will end at {mcqEnd, time, short}"
+  }
+}

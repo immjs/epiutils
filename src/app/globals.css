@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.light-mode {
+  --bg: #ffffff;
+  --fg: #4c4f69;
+  --green: #a6e3a1;
+  --done: #a6e3a1;
+  --done-flipped: #799985;
+  --orange: #fab387;
+  --red: #f38ba8;
+  --mauve: #cba6f7;
+  --blue: #89b4fa;
+  --surface-i: #eff1f5;
+  --surface-ii: #ccd0da;
+}

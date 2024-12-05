@@ -1,0 +1,52 @@
+{
+  "common": {
+    "logout": "Déconnexion",
+    "settings": "Paramètres",
+    "bug_report": "Signaler un bug",
+    "credits_by": "Avec <3 par Juliette WANG",
+    "credits_for": "Pour les délégués de la classe 2029",
+    "epiutils": "EPIUTILS",
+    "subject": "Matière",
+    "due_on": "À rendre le",
+    "priority": "Priorité",
+    "high": "Haute",
+    "medium": "Moyenne",
+    "low": "Basse",
+    "contents": "Contenu"
+  },
+  "main": {
+    "homeworks": "Devoirs",
+    "mcqs": "QCM"
+  },
+  "entry_page": {
+    "login": "Connexion avec Forge ID"
+  },
+  "homeworks": {
+    "sort_by": "Trier par",
+    "due_date": "Date limite",
+    "priority": "Priorité",
+    "due": "À rendre {relDate, plural, =0 {Aujourd'hui} =1 {Demain} =2 {Après-demain} other {dans # jours}}",
+    "no_upcoming_hw": "Aucun devoir à venir. (Sortez le ricard!)",
+    "add_hw": "Ajouter un devoir"
+  },
+  "add_hw": {
+    "add_hw": "AJOUTER UN DEVOIR",
+    "add_hw_btn": "Ajouter un devoir"
+  },
+  "edit_hw": {
+    "edit_hw": "MODIFIER UN DEVOIR",
+    "notify_all": "Notifier tous les utilisateurs de ce changement",
+    "edit_hw_btn": "Modifier un devoir"
+  },
+  "delete_hw": {
+    "delete_hw": "SUPPR UN DEVOIR",
+    "will_be_deleted_for_all": "Ce devoir sera supprimé pour tous les utilisateurs de votre classe utilisant EPIUTILS.",
+    "make_sure_hw_no_longer_req": "Assurez-vous d'avoir reçu la confirmation de l'enseignant concerné que ce devoir n'est plus à compléter.",
+    "delete_hw_btn": "Supprimer"
+  },
+  "mcqs": {
+    "upcoming_on": "QCM à venir le {mcqDate, date, medium}",
+    "no_study_instructions": "Aucune consigne d'étude. Ajoutez-les en utilisant le bouton de modification!",
+    "will_start_will_end": "Le prochain QCM commencera à {mcqStart, time, short} et se terminera à {mcqEnd, time, short}"
+  }
+}
